@@ -1,0 +1,1 @@
+The open gov program is an experimental system that can replace certain government actions, and act as a virtual governmment. This software does not run on Microsoft Windows, or MacOS due to security reasons.
