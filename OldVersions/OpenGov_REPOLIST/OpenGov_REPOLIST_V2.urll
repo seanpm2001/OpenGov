@@ -1,0 +1,59 @@
+////URLL-version=3;
+//// OpenGov_REPOLIST.urll
+//// https://github.com/seanpm2001/URLL-Specification
+//// A list of all OpenGovernment project repositories by @seanpm2001
+//// As of 2025, Friday, November 21st
+
+//// ----------------------------------------------------- \\\\
+//// OpenGov Project (8)
+//// ----------------------------------------------------- \\\\
+
+//// OpenGov Core (2)
+
+https://github.com/seanpm2001/OpenGov
+https://github.com/seanpm2001/OpenGovernment
+
+//// OpenGov Documentation core (2)
+
+https://github.com/seanpm2001/OpenGov_Docs
+https://github.com/seanpm2001/OpenGovernment_Docs
+
+//// OpenGov Voter (4)
+
+https://github.com/seanpm2001/OpenGov_Voter
+https://github.com/seanpm2001/OpenGov_Voter_Docs
+https://github.com/seanpm2001/OpenGovernment_Voter
+https://github.com/seanpm2001/OpenGovernment_Voter_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (OpenGovernment): 8
+//// 2+2+4=8
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (5)
+
+//// OpenGovOS (5)
+
+https://github.com/seanpm2001/OpenGovOS
+https://github.com/seanpm2001/OpenGovOS_Docs
+https://github.com/seanpm2001/Booty_OpenGovOS
+https://github.com/seanpm2001/Booty_OpenGovOS_Docs
+https://github.com/seanpm2001/OpenGov_Website
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 5
+//// 5+0=5
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 13
+//// 8+5=13
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 2 (2025, Friday, November 21st at 10:34 pm PST)
+//// Line count (including blank lines and compiler line): 60
+//// ----------------------------------------------------- \\\\
+
+//// End of file
